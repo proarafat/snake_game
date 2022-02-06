@@ -6,3 +6,4 @@
 <h5>import random</h5>
 <h5>import math</h5>
 ---------------------------------------preview---------------------------------------![Screenshot_5](https://user-images.githubusercontent.com/96917595/152694033-4c4d7f18-12d3-451f-941e-e15496c71d37.png)
+<img src="https://user-images.githubusercontent.com/96917595/152694033-4c4d7f18-12d3-451f-941e-e15496c71d37.png" alt="Preview=https://user-images.githubusercontent.com/96917595/152694033-4c4d7f18-12d3-451f-941e-e15496c71d37.png" width="500" height="600">
