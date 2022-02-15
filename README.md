@@ -1,5 +1,6 @@
 # Snake Game By Yasir Arafat, This is full make using Python
-## import pygame,import sys, import os, import random, import math
+# required to run py file
+    pip install pygame , os, random, math
 
 
 # Download EXE File
